@@ -5,3 +5,6 @@ $ sudo docker build -t ethan-dev .
 
 $ sudo docker run -p 127.0.0.1:8080:8080 -i -t ethan-dev
 
+default user is docker / docker
+
+some funkiness exists wrt ruby deps in vimrc
